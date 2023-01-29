@@ -10,11 +10,11 @@ The task is to create a new traffic light control system that manages the lights
 
 The exclusive states for pedestrian lights are green and red. On either side of the road, the control system must control a pedestrian light, a push button, and an optical indicator. Pushbutton activities on one side must also be indicated on the other. There is one light in each direction for the autos. The following figure depicts a more clear concept of the project.
 
-<p align="center">
+| <p align="center"> |
  | <img src="./Images/System Block Diagram.PNG"> |
  |:--:| 
  | *System Block Diagram* |
-</p>
+| </p> |
 
 <table>
   
