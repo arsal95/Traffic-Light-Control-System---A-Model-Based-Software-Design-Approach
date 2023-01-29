@@ -12,7 +12,64 @@ The exclusive states for pedestrian lights are green and red. On either side of 
 
 <figure class="image">
   <p align="center"> 
-   <img " src="https://github.com/arsal95/Traffic-Light-Control-System---A-Model-Based-Software-Design-Approach/blob/master/Images/System%20Block%20Diagram.PNG" alt="">
+   <img src="https://github.com/arsal95/Traffic-Light-Control-System---A-Model-Based-Software-Design-Approach/blob/master/Images/System%20Block%20Diagram.PNG" alt="">
   </p>
   <figcaption><p align="center"><i> System Block Diagram </i></p></figcaption>
-</figure>
+ </figure>
+                               
+<table>
+  
+   <tr>
+    <td colspan="5"><p align="center"><strong>Individual State durations (Sec) </strong></p> </td>
+  </tr>
+  
+  <tr>
+    <td rowspan="1"><b> States </b></td>
+    <td colspan="2"><b> Push button pressed</b> </td>
+    <td colspan="2"><b> Push button not pressed </b></td>
+  </tr>
+  
+  <tr>
+    <td></td>
+    <td>Individual state time</td>
+    <td>Time elasped</td>
+    <td>Individual state time</td>
+    <td>Time elasped</td>
+  </tr>
+  
+   <tr>
+    <td>Initialization</td>
+    <td>2</td>
+    <td>2</td>
+    <td>2</td>
+    <td>2</td>
+  </tr>
+     <tr>
+    <td>Vehicle Stopping</td>
+    <td>10</td>
+    <td>12</td>
+    <td>10</td>
+    <td>12</td>
+  </tr>
+     <tr>
+    <td>Vehicle Pre-crossing</td>
+    <td>5</td>
+    <td>17</td>
+    <td>5</td>
+    <td>17</td>
+  </tr>
+     <tr>
+    <td>Vehicle Crossing</td>
+    <td>15</td>
+    <td>32</td>
+    <td>20</td>
+    <td>37</td>
+  </tr>
+     <tr>
+    <td>Vehicle Precrossing</td>
+    <td>3</td>
+    <td>35</td>
+    <td>3</td>
+    <td>40</td>
+  </tr>
+</table>
