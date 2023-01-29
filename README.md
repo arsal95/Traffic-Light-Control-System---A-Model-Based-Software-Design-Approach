@@ -21,7 +21,7 @@ The exclusive states for pedestrian lights are green and red. On either side of 
   </tr>
   
   <tr>
-    <td rowspan="1"><b> States </b></td>
+    <td rowspan="1"><p align="center"><b> States </p></b></td>
     <td colspan="2"><b> Push button pressed</b> </td>
     <td colspan="2"><b> Push button not pressed </b></td>
   </tr>
