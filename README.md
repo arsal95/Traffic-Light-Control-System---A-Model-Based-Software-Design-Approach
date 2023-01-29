@@ -1,2 +1,9 @@
 # Traffic-Light-Control-System---A-Model-Based-Software-Design-Approach
-In this project, a Traffic Light Control System (TLCS) using Model-Based Software Design approch. The project implemented according to Agile Software Development Process, which starts with project planning and lists system requirement in a Requirement Specification Sheet. Then the TLCS system architecture was developed using a software design approach. Later, utilizing Simulink/State Flow Graphs, a Software Design Block diagram was created and put into use. Following that, a test harness was made, and several test cases were checked to see if the project's criteria were being satisfied.
+In this project, a Traffic Light Control System (TLCS) using Model-Based Software Design approch. The project implements according to Agile Software Development Process, which starts with project planning and lists system requirement in a Requirement Specification Sheet. Then the TLCS system architecture is developed using a software design approach. Later, utilizing Simulink/State Flow Graphs, a Software Design Block diagram is created and put into use. Following that, a test harness is made, and several test cases are checked to see if the project's criteria were being satisfied.
+
+The task is to create a new traffic light control system that manages the lights for pedestrians and autos automatically. The system must respond to push-button requests made by the user. An optical indication must be used to signify the requests. The following exclusive states are possible for automobile lights:
+
+- green
+- yellow
+- red
+- red-yellow
