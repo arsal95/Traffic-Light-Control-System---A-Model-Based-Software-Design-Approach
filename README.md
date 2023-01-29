@@ -14,5 +14,6 @@ The exclusive states for pedestrian lights are green and red. On either side of 
   <p align="center"> 
    <img " src="https://github.com/arsal95/Traffic-Light-Control-System---A-Model-Based-Software-Design-Approach/blob/master/Images/System%20Block%20Diagram.PNG" alt="">
   </p>
-  <figcaption><p align="center"><i> System Block Diagram </i></p></figcaption>
+  |:--:| 
+  | <figcaption><p align="center"><i> System Block Diagram </i></p></figcaption> |
 </figure>
