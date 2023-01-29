@@ -9,17 +9,10 @@ The task is to create a new traffic light control system that manages the lights
 - red-yellow
 
 The exclusive states for pedestrian lights are green and red. On either side of the road, the control system must control a pedestrian light, a push button, and an optical indicator. Pushbutton activities on one side must also be indicated on the other. There is one light in each direction for the autos. The following figure depicts a more clear concept of the project.
-
-| <figure class="image"> |
-  | <p align="center"> | 
-   | <img src="https://github.com/arsal95/Traffic-Light-Control-System---A-Model-Based-Software-Design-Approach/blob/master/Images/System%20Block%20Diagram.PNG" alt=""> |
-  | </p> |
-  | <figcaption><p align="center"><i> System Block Diagram </i></p></figcaption> |
- | </figure> |
  
  | <img src="./Images/System Block Diagram.PNG"> |
  |:--:| 
- | *System Architecture* |
+ | *System Block Diagram* |
 
 <table>
   
