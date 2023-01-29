@@ -34,14 +34,8 @@ The exclusive states for pedestrian lights are green and red. On either side of 
     <td>Time elasped</td>
   </tr>
   
+  
    <tr>
-    <td>Initialization</td>
-    <td>2</td>
-    <td>2</td>
-    <td>2</td>
-    <td>2</td>
-  </tr>
-     <tr>
     <td>Vehicle Stopping</td>
     <td>10</td>
     <td>12</td>
@@ -63,7 +57,7 @@ The exclusive states for pedestrian lights are green and red. On either side of 
     <td>37</td>
   </tr>
      <tr>
-    <td>Vehicle Precrossing</td>
+    <td>Vehicle Post-crossing</td>
     <td>3</td>
     <td>35</td>
     <td>3</td>
