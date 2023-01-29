@@ -16,6 +16,10 @@ The exclusive states for pedestrian lights are green and red. On either side of 
   </p>
   <figcaption><p align="center"><i> System Block Diagram </i></p></figcaption>
  </figure>
+ 
+ | <img src="[./Images/System Block Diagram.PNG]"> |
+|:--:| 
+| *System Architecture* |
                                
 <table>
   
