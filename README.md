@@ -87,4 +87,4 @@ The overview of the system that is executed and tested are given below.
 |:--:| 
 | *TLC Module* |
 
-Thank you for visiting my account. I wish you a good day! :slightly_smiling_face
+Thank you for visiting my account. I wish you a good day! 🙂
