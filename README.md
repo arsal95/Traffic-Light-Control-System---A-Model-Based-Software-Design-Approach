@@ -13,6 +13,13 @@ The exclusive states for pedestrian lights are green and red. On either side of 
  | <img src="./Images/System Block Diagram.PNG"> |
  |:--:| 
  | *System Block Diagram* |
+ 
+ The following four main requirements were employed in the test verification process to implement the TLCS:
+ 
+- Vehicle stopping
+- Vehicle pre-crossing
+- Vehicle crossing
+- Vehicle post-crossing
 
 <table>
   
