@@ -17,7 +17,7 @@ The exclusive states for pedestrian lights are green and red. On either side of 
 <table>
   
    <tr>
-    <td colspan="5"><p align="center"><strong>Individual State durations (sec) </strong></p> </td>
+    <td colspan="5"><p align="center"><strong>Individual State Durations (sec) </strong></p> </td>
   </tr>
   
   <tr>
