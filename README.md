@@ -40,38 +40,31 @@ The Finite State Machine (FSM) is implementated using State Flow Graphs follows 
     <td><p align="center"><b>States<b></p></td>
     <td><p align="center">Individual state time</p></td>
     <td><p align="center">Time elasped</p></td>
-    <td><p align="center">Individual state time</p></td>
-    <td><p align="center">Time elasped</p></td>
   </tr>
   
   
    <tr>
     <td>Vehicle Stopping</td>
-    <td><p align="center">50</p></td>
-    <td><p align="center">50</p></td>
     <td><p align="center">30</p></td>
     <td><p align="center">30</p></td>
   </tr>
-     <tr>
+ 
+   <tr>
     <td>Vehicle Pre-crossing</td>
-    <td><p align="center">5</p></td>
-    <td><p align="center">55</p></td>
     <td><p align="center">5</p></td>
     <td><p align="center">35</p></td>
   </tr>
-     <tr>
+ 
+   <tr>
     <td>Vehicle Crossing</td>
-    <td><p align="center">30</p></td>
-    <td><p align="center">1 min 25</p></td>
     <td><p align="center">30</p></td>
     <td><p align="center">1 min 05</p></td>
   </tr>
-     <tr>
+ 
+   <tr>
     <td>Vehicle Post-crossing</td>
     <td><p align="center">5</p></td>
-    <td><p align="center">1 min 30</p></td>
-    <td><p align="center">5</p></td>
-    <td><p align="center">1 min 20</p></td>
+    <td><p align="center">1 min 10</p></td>
   </tr>
 </table>
 
@@ -91,11 +84,15 @@ The overview of the system that is executed and tested are given below.
 
 **Test 1**
 
+When there is no pedestrian input (signal from test builder), vechiles traffic light system works continuously without any disturbance. The pedestrian traffic red signal remain ON and green signal remain OFF.
+
 | <img src="./Images/T1.PNG"> |
 |:--:| 
 | *Test 1* |
 
 **Test 2**
+
+If the pedestrian push button pressed when there is less than 20 seconds remains to switch the vehicle traffic signal red light to yellow, the pedestrian green light ON when the vehicle traffic red light ON next- time.
 
 | <img src="./Images/T2.PNG"> |
 |:--:| 
@@ -103,11 +100,15 @@ The overview of the system that is executed and tested are given below.
 
 **Test 3**
 
+When the vehicle traffic signal green light in ON, the pedestrian green light is not ON, its ON when the vehicle traffic red light ON.
+
 | <img src="./Images/T3.PNG"> |
 |:--:| 
 | *Test 3* |
 
 **Test 4**
+
+When the pedestrian green light in ON, the system do not respond the pedestrian push button and also not increase the ON time of pedestrian green light.
 
 | <img src="./Images/T4.PNG"> |
 |:--:| 
@@ -115,6 +116,7 @@ The overview of the system that is executed and tested are given below.
 
 **Test 5**
 
+For random presses of pedestrian push button, the system responds the request when it requires.
 
 | <img src="./Images/T5.PNG"> |
 |:--:| 
