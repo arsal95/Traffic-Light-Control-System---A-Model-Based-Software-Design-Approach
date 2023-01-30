@@ -86,3 +86,5 @@ The overview of the system that is executed and tested are given below.
 | <img src="./Images/TLC Module.PNG"> |
 |:--:| 
 | *TLC Module* |
+
+Thank you for visiting my account. I wish you a good day! 🙂
