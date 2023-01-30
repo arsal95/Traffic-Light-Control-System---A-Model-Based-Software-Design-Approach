@@ -74,4 +74,4 @@ The duration between states is determined by whether or not pedestrain presses a
   </tr>
 </table>
 
-According to above logic FSM is developed in MATALAB/Simulink/Sate Flow Graphs as shown in below figure.
+According to above logic, FSM is developed in MATALAB/Simulink/Sate Flow Graphs as shown in below figure.
