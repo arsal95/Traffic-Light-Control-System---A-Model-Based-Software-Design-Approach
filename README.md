@@ -21,6 +21,8 @@ The exclusive states for pedestrian lights are green and red. On either side of 
 - Vehicle crossing
 - Vehicle post-crossing
 
+The duration between states is determined by whether or not pedestrain presses a push button. Only the duration for a vehicles stopping state is increased by 20 seconds when a push button is pressed to cross the road. The Finite State Machine (FSM) is implementated using State Flow Graphs follows the pattern as shown in the table below.
+
 <table>
   
    <tr>
