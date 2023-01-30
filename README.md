@@ -37,11 +37,11 @@ The Finite State Machine (FSM) is implementated using State Flow Graphs follows 
  
   
   <tr>
-    <td>States</td>
-    <td>Individual state time</td>
-    <td>Time elasped</td>
-    <td>Individual state time</td>
-    <td>Time elasped</td>
+    <td><p align="center"><b>States<b></p></td>
+    <td><p align="center">Individual state time</p></td>
+    <td><p align="center">Time elasped</p></td>
+    <td><p align="center">Individual state time</p></td>
+    <td><p align="center">Time elasped</p></td>
   </tr>
   
   
