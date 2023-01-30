@@ -37,30 +37,30 @@ The exclusive states for pedestrian lights are green and red. On either side of 
   
    <tr>
     <td>Vehicle Stopping</td>
-    <td>10</td>
-    <td>12</td>
-    <td>10</td>
-    <td>12</td>
+    <td>50</td>
+    <td>50</td>
+    <td>30</td>
+    <td>30</td>
   </tr>
      <tr>
     <td>Vehicle Pre-crossing</td>
     <td>5</td>
-    <td>17</td>
+    <td>55</td>
     <td>5</td>
-    <td>17</td>
+    <td>35</td>
   </tr>
      <tr>
     <td>Vehicle Crossing</td>
-    <td>15</td>
-    <td>32</td>
-    <td>20</td>
-    <td>37</td>
+    <td>30</td>
+    <td>1 min 25</td>
+    <td>30</td>
+    <td>1 min 05</td>
   </tr>
      <tr>
     <td>Vehicle Post-crossing</td>
-    <td>3</td>
-    <td>35</td>
-    <td>3</td>
-    <td>40</td>
+    <td>5</td>
+    <td>1 min 30</td>
+    <td>5</td>
+    <td>1 min 20</td>
   </tr>
 </table>
