@@ -73,3 +73,5 @@ The duration between states is determined by whether or not pedestrain presses a
     <td><p align="center">1 min 20</p></td>
   </tr>
 </table>
+
+According to above logic FSM is developed in MATALAB/Simulink/Sate Flow Graphs as shown in below figure.
