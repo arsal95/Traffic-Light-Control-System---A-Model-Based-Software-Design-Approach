@@ -30,14 +30,8 @@ The Finite State Machine (FSM) is implementated using State Flow Graphs follows 
   </tr>
   
   <tr>
-    
-    <td colspan="2"><p align="center"><b> Push button pressed </p></b> </td>
-    <td colspan="2"><p align="center"><b> Push button not pressed </p></b></td>
-  </tr>
-  
-  <tr>
     <td></td>
-    <td rowspan="1"><p align="center"><b> States </p></b></td>
+    <td><b> States </b></td>
     <td>Individual state time</td>
     <td>Time elasped</td>
     <td>Individual state time</td>
