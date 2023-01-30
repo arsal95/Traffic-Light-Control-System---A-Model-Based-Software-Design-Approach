@@ -79,3 +79,9 @@ According to above logic, FSM is developed in MATALAB/Simulink/Sate Flow Graphs 
 | <img src="./Images/FSM Design.PNG"> |
 |:--:| 
 | *FSM Design* |
+
+The overview of the system that is executed and tested are given below.
+
+| <img src="./Images/TLC Module.PNG"> |
+|:--:| 
+| *TLC Module* |
